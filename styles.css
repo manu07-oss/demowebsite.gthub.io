@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    color: darkgreen;
+    margin-left: 300px;
+}
+.two{
+   background-color:black;
+   color: white;
+}
+
+p{
+    border-style: double;
+}
